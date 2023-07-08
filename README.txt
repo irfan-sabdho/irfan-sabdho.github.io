@@ -11,7 +11,7 @@ Apa yang baru? (Change Log)
 ------------------------------
 - Instalasi react js sebagai framework yang akan digunakan dalam pembuatan halaman
 - Menghapus 'index.html' dan 'README.md'
-- Menambah 'README.txt' sebagai alternatif 'readme.md'
+- Menambah 'README.txt' sebagai alternatif 'README.md'
 
 ------------------------------
 Fitur
