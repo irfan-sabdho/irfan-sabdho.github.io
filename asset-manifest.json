@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/irfan-sabdho/irfan-sabdho.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/irfan-sabdho/irfan-sabdho.github.io/static/js/main.3a8729be.js",
-    "static/js/787.ea35ec24.chunk.js": "/irfan-sabdho/irfan-sabdho.github.io/static/js/787.ea35ec24.chunk.js",
-    "static/media/logo.svg": "/irfan-sabdho/irfan-sabdho.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/irfan-sabdho/irfan-sabdho.github.io/index.html",
-    "main.073c9b0a.css.map": "/irfan-sabdho/irfan-sabdho.github.io/static/css/main.073c9b0a.css.map",
-    "main.3a8729be.js.map": "/irfan-sabdho/irfan-sabdho.github.io/static/js/main.3a8729be.js.map",
-    "787.ea35ec24.chunk.js.map": "/irfan-sabdho/irfan-sabdho.github.io/static/js/787.ea35ec24.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f2db10e3.js",
+    "static/js/787.ea35ec24.chunk.js": "/static/js/787.ea35ec24.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f2db10e3.js.map": "/static/js/main.f2db10e3.js.map",
+    "787.ea35ec24.chunk.js.map": "/static/js/787.ea35ec24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3a8729be.js"
+    "static/js/main.f2db10e3.js"
   ]
 }
