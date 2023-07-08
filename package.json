@@ -1,7 +1,7 @@
 {
   "name": "irfansabdho.github.io",
   "version": "0.1.0",
-  "homepage": "https://github.com/irfan-sabdho/irfan-sabdho.github.io",
+  "homepage": "https://irfan-sabdho.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
