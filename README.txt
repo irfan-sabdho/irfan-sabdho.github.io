@@ -1,9 +1,3 @@
-Personal Page 0.0.0
-Copyright (c) 2023 by Irfan Sabdho
-
-------------------------------
-Tentang Project
-------------------------------
 Project ini dibuat untuk menerapkan proses belajar saya pribadi dalam membangun website berisi hal-hal yang menarik bagi saya.
 
 ------------------------------
